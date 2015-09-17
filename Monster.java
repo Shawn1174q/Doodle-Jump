@@ -35,7 +35,7 @@ public class Monster extends Character
 	}
 	
 
-	public void move()
+	public void move() 
 	{
 	
 		changeY(vv);
